@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Bourbon Molasses Butter",
+    "image_url": "Bourbon Molasses Butter",
+    "steps": [
+      {
+        "ingredients": [
+          {
+            "id": 10014037,
+            "name": "bourbon"
+          },
+          {
+            "id": 19335,
+            "name": "sugar"
+          }
+        ],
+        "number": 1,
+        "step": "Combine the bourbon and sugar in a small saucepan and cook over high heat until reduced to 3 tablespoons, remove and let cool."
+      },
+      {
+        "ingredients": [
+          {
+            "id": 19304,
+            "name": "molasses"
+          },
+          {
+            "id": 10014037,
+            "name": "bourbon"
+          },
+          {
+            "id": 2047,
+            "name": "salt"
+          }
+        ],
+        "number": 2,
+        "step": "Put the butter, molasses, salt and cooled bourbon mixture in a food processor and process until smooth."
+      },
+      {
+        "ingredients": [],
+        "number": 3,
+        "step": "Scrape into a bowl, cover with plastic wrap and refrigerate for at least 1 hour to allow the flavors to meld."
+      },
+      {
+        "ingredients": [],
+        "number": 4,
+        "step": "Remove from the refrigerator about 30 minutes before using to soften."
+      }
+    ]
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "image_url": "Spaghetti Bolognese",
+    "steps": [
+      {
+        "ingredients": [
+          {
+            "id": 2345,
+            "name": "ground beef"
+          },
+          {
+            "id": 3456,
+            "name": "onion"
+          },
+          {
+            "id": 4567,
+            "name": "garlic"
+          }
+        ],
+        "number": 1,
+        "step": "In a large skillet, brown the ground beef over medium-high heat. Add chopped onion and minced garlic, and cook until the onion is translucent."
+      },
+      {
+        "ingredients": [
+          {
+            "id": 5678,
+            "name": "tomato sauce"
+          },
+          {
+            "id": 6789,
+            "name": "crushed tomatoes"
+          },
+          {
+            "id": 7890,
+            "name": "Italian seasoning"
+          }
+        ],
+        "number": 2,
+        "step": "Stir in tomato sauce, crushed tomatoes, and Italian seasoning. Simmer for 20 minutes, stirring occasionally."
+      },
+      {
+        "ingredients": [],
+        "number": 3,
+        "step": "Cook spaghetti according to package instructions. Serve the Bolognese sauce over cooked spaghetti."
+      }
+    ]
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "image_url": "Chicken Caesar Salad",
+    "steps": [
+      {
+        "ingredients": [
+          {
+            "id": 1234,
+            "name": "chicken breast"
+          },
+          {
+            "id": 2345,
+            "name": "romaine lettuce"
+          },
+          {
+            "id": 3456,
+            "name": "croutons"
+          }
+        ],
+        "number": 1,
+        "step": "Grill or bake chicken breast until fully cooked. Slice into thin strips."
+      },
+      {
+        "ingredients": [
+          {
+            "id": 4567,
+            "name": "Parmesan cheese"
+          },
+          {
+            "id": 5678,
+            "name": "Caesar dressing"
+          },
+          {
+            "id": 6789,
+            "name": "lemon juice"
+          }
+        ],
+        "number": 2,
+        "step": "Toss romaine lettuce with croutons, Parmesan cheese, and Caesar dressing. Squeeze fresh lemon juice over the salad."
+      },
+      {
+        "ingredients": [],
+        "number": 3,
+        "step": "Top the salad with grilled chicken strips. Serve immediately."
+      }
+    ]
+  }
+]
+
